@@ -6,7 +6,7 @@ DiffTool is a gradle java project, has a Test class with some scenarios to test
 
 main class is DiffTool.java, start with a validation if list or an object
 
-apply some validation tools and create a report list where is stored all items with errors ( rules mentioned in the document)
+apply some validation rules and create a report list where is stored all items with errors ( rules mentioned in the document)
 
 # run
 
