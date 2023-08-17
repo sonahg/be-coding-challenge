@@ -14,6 +14,7 @@ Go to test package DiffToolTest and run all test
 
 # scenarios
 single object: check which attribute has different value
+
 list : check if all object have id attribute, check which item is added or delete and check by item which attribute has differente value
 
 # time
